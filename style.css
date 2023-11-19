@@ -62,3 +62,15 @@ section {
 label{
 	font-size: 25px;
 }
+
+#home img{
+	width: 800px;
+}
+
+
+footer {
+	background-color: #333;
+	color: #fff;
+	text-align: center;
+	padding: 1rem 0;
+}
