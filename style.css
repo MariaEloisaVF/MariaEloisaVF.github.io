@@ -41,3 +41,24 @@ section {
 	max-width: 800px;
 	margin: 0 auto;
 }
+
+.contact-icons {
+	display: flex;
+}
+
+.contact-icons a {
+	color: #333;
+}
+
+.contact-icons a svg {
+	width: 30px;
+	height: 30px;
+}
+
+.contact-icons ul{
+	list-style: none;
+}
+
+label{
+	font-size: 25px;
+}
